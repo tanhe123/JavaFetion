@@ -1,0 +1,6 @@
+*~
+out/*
+target/*
+build/*
+.idea/workspace.xml
+local.properties
